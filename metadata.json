@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse - Event Social Suite & Attendee Post Generator",
+  "description": "Enterprise event social media command center and AI-powered LinkedIn post generator for attendees and organizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
